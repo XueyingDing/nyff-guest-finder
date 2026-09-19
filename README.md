@@ -25,8 +25,8 @@ Lineup page ──► 01_scrape_screenings.py ──► nyff64_films.csv
 Requires Python 3.9+.
 
 ```bash
-git clone https://github.com/XueyingDing/NYFF64_Guest_Finder_Project.git
-cd NYFF64_Guest_Finder_Project
+git clone https://github.com/XueyingDing/nyff-guest-finder.git
+cd nyff-guest-finder
 
 pip install -r requirements.txt
 playwright install chromium
