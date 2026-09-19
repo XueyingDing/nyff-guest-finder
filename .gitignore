@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Generated data and caches (regenerate by running the scripts)
+nyff64_films.csv
+nyff64_films.xlsx
+nyff64_films_with_chinese.xlsx
+wikidata_cache_v2.json
+zh_lookup_cache.json
