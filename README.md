@@ -68,6 +68,10 @@ Output: `nyff64_films_with_chinese.xlsx`
 - Anything without a Chinese label keeps its English name.
 - Inserts a Chinese column next to each English one, keeping the formatting.
 
+## Results
+
+The `results/` folder holds the final spreadsheet from one run. It is only a snapshot: the lineup and guests may have changed since. The festival content belongs to Film at Lincoln Center and is shown here for demonstration.
+
 ## Configuration
 
 Set at the top of the scripts:
