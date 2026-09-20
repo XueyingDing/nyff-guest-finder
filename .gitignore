@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+.pytest_cache/
 
 # Editor / OS
 .vscode/
@@ -16,3 +17,4 @@ venv/
 /nyff64_films_with_chinese.xlsx
 /wikidata_cache_v2.json
 /zh_lookup_cache.json
+/*.bak-*

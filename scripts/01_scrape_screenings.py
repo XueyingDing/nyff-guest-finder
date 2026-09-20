@@ -125,7 +125,6 @@ def main():
 
             n = page.evaluate(MARK_JS)
             print(f"Found {n} films")
-            cards = page.locator("[data-film-card]")
 
             for i in range(n):
                 card = page.locator(f'[data-film-card="{i}"]')
