@@ -8,6 +8,10 @@ Finds which screenings at the **64th New York Film Festival** have an intro or Q
 
 On the [lineup page](https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films), the guests for a screening only appear in a tooltip when you hover over the showtime. Checking every film by hand and googling each name is slow, so this automates it.
 
+## Sample Output
+
+![NYFF Guest Finder sample output](assets/nyff-preview.png)
+
 ## Pipeline
 
 ```
