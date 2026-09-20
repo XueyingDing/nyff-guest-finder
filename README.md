@@ -10,7 +10,7 @@ On the [lineup page](https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films), th
 
 ## Sample Output
 
-![NYFF Guest Finder sample output](assets/nyff-preview.png)
+![NYFF Guest Finder sample output](./assetsnyff-preview.PNG)
 
 ## Pipeline
 
